@@ -1,1 +1,7 @@
 theme: jekyll-theme-cayman
+title: Synthesizing Tabular Data
+description: >
+  Yi Sun, Lei Xu, Kalyan Veeramachaneni <br/>
+  DAI Lab, MIT
+
+tgan_code: https://github.com/DAI-Lab/TGAN
